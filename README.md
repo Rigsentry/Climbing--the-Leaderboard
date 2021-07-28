@@ -53,16 +53,5 @@ Input
 Output
 [6 5 4 2 1]
 ```
-## Test Case #3
 
-* Input
-[input00.txt](test/input00.txt)
-* Output
-[output00.txt](test/input00.txt)
-
-## Test Case #4
-* Input
-[input11.txt](test/input11.txt)
-* Output
-[output11.txt](test/input11.txt)
 

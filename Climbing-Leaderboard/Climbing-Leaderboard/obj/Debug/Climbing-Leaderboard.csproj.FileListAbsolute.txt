@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\bin\Debug\Climbing-Leaderboard.exe.config
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\bin\Debug\Climbing-Leaderboard.exe
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\bin\Debug\Climbing-Leaderboard.pdb
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\obj\Debug\Climbing-Leaderboard.csprojAssemblyReference.cache
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\obj\Debug\Climbing-Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\obj\Debug\Climbing-Leaderboard.exe
+C:\Users\LagunasJ\Code\personal\Climbing-Leaderboard\Climbing-Leaderboard\Climbing-Leaderboard\obj\Debug\Climbing-Leaderboard.pdb

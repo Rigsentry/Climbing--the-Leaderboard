@@ -1,0 +1,7 @@
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\bin\Debug\Leaderboard.exe.config
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\bin\Debug\Leaderboard.exe
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\bin\Debug\Leaderboard.pdb
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\obj\Debug\Leaderboard.csprojAssemblyReference.cache
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\obj\Debug\Leaderboard.csproj.CoreCompileInputs.cache
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\obj\Debug\Leaderboard.exe
+C:\work-not-shared\2021\codechallenge\Climbing--the-Leaderboard\Leaderboard\Leaderboard\obj\Debug\Leaderboard.pdb
